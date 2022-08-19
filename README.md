@@ -1,2 +1,2 @@
 # todo_list
-todo_list web application in Django
+todo list web application in Django
